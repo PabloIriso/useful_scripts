@@ -1,5 +1,5 @@
 ---
-title: "PEC 1: Predicción ‘in-silico’ de sitios de escisión reconocidos por la proteasa del HIV-1"
+title: "Predicción ‘in-silico’ de sitios de escisión reconocidos por la proteasa del HIV-1"
 author: "Pablo Iriso Soret"
 date: ""
 output:
